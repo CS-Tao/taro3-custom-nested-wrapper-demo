@@ -22,4 +22,4 @@
 
 **演示**
 
-![taro3-nested-custom-wrapper-demo.gif](https://home.cs-tao.cc/github-content/contents/github/others/taro3-nested-custom-wrapper-demo.gif)
+![taro3-nested-custom-wrapper-demo.gif](https://github.com/CS-Tao/github-content/raw/master/contents/github/others/taro3-nested-custom-wrapper-demo.gif)
